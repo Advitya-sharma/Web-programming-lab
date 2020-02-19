@@ -1,8 +1,17 @@
-
-.frame3{
-background-color: slateblue;
+body{
+    background-color: black;
 }
 
-.frame1{
-    background-color: salmon;
-    }
+header{
+    background-color:red; 
+    padding-left: 100px;
+    height: 200px;
+    width: 1500px;
+}
+
+nav{
+    padding-top: 10px;
+    background-color: rgb(43, 183, 226);
+    height: 100px;
+    width: 1000px;
+}
