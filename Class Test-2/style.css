@@ -1,0 +1,99 @@
+body{
+    background-color: burlywood;
+}
+
+header{
+    background-color: greenyellow;
+    margin-top: -8px;
+    height: 100px;
+    width: 1300px;
+   margin-left: 20px;
+}
+
+
+
+.aside1{
+background-color: white;
+border: groove;
+margin-left: 20px;
+width: 300px;
+margin-top: 80px;
+}
+
+.aside2{
+    background-color: white;
+    margin-left: 400px;
+    width: 300px;
+    margin-top: -100px;
+    border: groove;
+    }
+
+    .aside3{
+        background-color: white;
+        margin-left: 800px;
+        width: 300px;
+        margin-top: -100px;
+        border: groove;
+}
+
+.bigmove{
+    margin-left: 100px;
+}
+
+
+
+.bottom{
+    background-color: indigo;
+    width: 1100px;
+    height: 200px;
+    margin-top: 50px;
+    padding-top: 0px;
+    margin-left: 10px;
+    border: groove;
+}
+
+.navx{
+    background-color: chartreuse;
+    height: 182px;
+    width: 100px;
+    float: right;
+}
+
+.a{
+background-color: red;
+margin-top: 120px;
+width: 275px;
+height: 100px;
+}
+
+
+.b{
+    background-color: green;
+    margin-top: -100px;
+    width: 550px;
+    height: 100px;
+    margin-left: 275px;
+}
+
+.c{
+        background-color: yellow;
+        margin-top: -100px;
+        width: 275px;
+        height: 100px;
+        margin-left: 550PX;
+        }
+
+.d{
+            background-color: red;
+            margin-top: -100px;
+            width: 275px;
+            height: 100px;
+            margin-left: 825PX;
+            }
+.x{
+    background-color: indigo;
+    color: ivory;
+}
+article{
+    float: left;
+}
